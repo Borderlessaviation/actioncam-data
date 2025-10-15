@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Output
+output/
+*.gpx
+*.kml
+*.csv
+*.json
+*.geojson
+
+# Test videos
+*.mp4
+*.mov
+*.MP4
+*.MOV
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
