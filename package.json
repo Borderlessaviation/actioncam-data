@@ -1,0 +1,35 @@
+{
+  "name": "actioncam-data",
+  "version": "1.0.0",
+  "description": "Extract GPS, speed, and sensor data from action camera videos",
+  "main": "src/extract.js",
+  "scripts": {
+    "start": "node src/extract.js",
+    "extract": "node src/extract.js"
+  },
+  "keywords": [
+    "gopro",
+    "insta360",
+    "dji",
+    "action-camera",
+    "telemetry",
+    "gps",
+    "gpx",
+    "data-extraction",
+    "gpmf"
+  ],
+  "author": "Borderlessaviation",
+  "license": "MIT",
+  "dependencies": {
+    "gpmf-extract": "^0.2.0",
+    "gopro-telemetry": "^1.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Borderlessaviation/actioncam-data.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Borderlessaviation/actioncam-data/issues"
+  },
+  "homepage": "https://github.com/Borderlessaviation/actioncam-data#readme"
+}
