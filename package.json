@@ -21,8 +21,8 @@
   "author": "Borderlessaviation",
   "license": "MIT",
   "dependencies": {
-    "gpmf-extract": "^0.2.0",
-    "gopro-telemetry": "^1.5.0"
+    "gpmf-extract": "^0.3.2",
+    "gopro-telemetry": "^1.2.9"
   },
   "repository": {
     "type": "git",
